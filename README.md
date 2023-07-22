@@ -9,6 +9,8 @@
 
 - 📫 How to reach me <a href="mailto:elwin1116@gmail.com">Email</a> | <a href="elwinliu.github.io">myBlog</a> 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elwinliu&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="elwinliu" /></p>
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
