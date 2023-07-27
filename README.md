@@ -7,7 +7,7 @@
    Hi, This is Elwin Liu. I'm currently a senior in <a href="https://cs.cug.edu.cn/">School of Computer Science, CUG</a>, actively seeking for an internship opportunity in China and applying for a master program in Canada. Please feel free to contact me, I would be thrilled to discuss my potential contributions further.
 
 - 🌱 I’m currently learning **Java, SpringBoot and other core computer courses**
-- 📫 How to reach me <a href="mailto:elwin1116@gmail.com">Email</a> | <a href="elwinliu.com">Blog</a> 
+- 📫 How to reach me <a href="mailto:elwin1116@gmail.com">Email</a> | <a href="elwinliu.github.io">Blog</a> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elwinliu&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="elwinliu" /></p>
 
