@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xingyu(Elwin) Liu</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-<p align="left"> <a href="https://elwinliu.github.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Blog-Elwin-blue" alt="elwinliu" /></a> <a href="https://leetcode.cn/u/upbeat-khayyamufj/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-CodeLife-blue" alt="elwinliu" /></a> <a href="https://elwinliu.github.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-aboutme-blue" alt="elwinliu" /></a>
+<p align="left"> <a href="https://elwinliu.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Blog-Elwin-blue" alt="elwinliu" /></a> <a href="https://leetcode.cn/u/upbeat-khayyamufj/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-CodeLife-blue" alt="elwinliu" /></a> <a href="https://elwinliu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-aboutme-blue" alt="elwinliu" /></a>
 </p>
 
    Hi, This is Elwin Liu. I'm currently a senior in <a href="https://cs.cug.edu.cn/">School of Computer Science, CUG</a>, actively seeking for an internship opportunity in China and applying for a master program in Canada. Please feel free to contact me, I would be thrilled to discuss my potential contributions further.
