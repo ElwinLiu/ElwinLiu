@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://elwinliu.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Blog-Elwin-blue" alt="elwinliu" /></a> <a href="https://leetcode.cn/u/upbeat-khayyamufj/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-CodeLife-blue" alt="elwinliu" /></a> <a href="https://elwinliu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-aboutme-blue" alt="elwinliu" /></a>
 </p>
 
-   Hi, This is Elwin Liu. I'm currently pursuing Master of Computer Science Degree in University of Ottawa, actively seeking for an internship opportunity in Canada. Please feel free to reach out, I would be thrilled to discuss my potential contributions further.
+   Hi, This is Elwin Liu. I'm currently pursuing Master of Computer Science Degree in University of Ottawa, doing my internship @AWS. Please feel free to reach out, I would be thrilled to discuss my potential contributions further.
 
 - 🌱 I’m currently learning **Java, SpringBoot and other core computer courses**
 - 📫 How to reach me <a href="mailto:elwin1116@gmail.com">Email</a> | [Blog](https://elwinliu.com/)
