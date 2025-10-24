@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xingyu(Elwin) Liu</h1>
-<h3 align="center">A passionate backend developer from Canada</h3>
+<h3 align="center">A passionate backend developer in Canada</h3>
 
 <p align="left"> <a href="https://elwinliu.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Blog-Elwin-blue" alt="elwinliu" /></a> <a href="https://leetcode.cn/u/upbeat-khayyamufj/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-CodeLife-blue" alt="elwinliu" /></a> <a href="https://elwinliu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-aboutme-blue" alt="elwinliu" /></a>
 </p>
 
-   Hi, This is Elwin Liu. I'm currently pursuing Master of Computer Science Degree in University of Ottawa. Please feel free to reach out, I would be thrilled to discuss my potential contributions further.
-
-- 🌱 I’m currently learning **Java, SpringBoot and other core computer courses**
+   Hi, This is Elwin Liu. I'm currently pursuing Master of Computer Science Degree in University of Ottawa, and I will be joining Amazon Web Service (AWS) as 2026 new grad. Please feel free to reach out, I would be thrilled to discuss my potential contributions further.
+   
 - 📫 How to reach me <a href="mailto:elwin1116@gmail.com">Email</a> | [Blog](https://elwinliu.com/)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elwinliu&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="elwinliu" /></p>
