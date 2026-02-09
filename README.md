@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Xingyu(Elwin) Liu</h1>
 <h3 align="center">A passionate backend developer in Canada</h3>
 
-<p align="left"> <a href="https://elwinliu.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Blog-Elwin-blue" alt="elwinliu" /></a> <a href="https://leetcode.cn/u/upbeat-khayyamufj/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-CodeLife-blue" alt="elwinliu" /></a> <a href="https://elwinliu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CV-aboutme-blue" alt="elwinliu" /></a>
+<p align="left"> <a href="https://elwinliu.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Blog-Elwin-blue" alt="elwinliu" /></a>
 </p>
 
    Hi, This is Elwin Liu. I'm currently pursuing Master of Computer Science Degree in University of Ottawa, and I will be joining Amazon Web Service (AWS) as 2026 new grad. Please feel free to reach out, I would be thrilled to discuss my potential contributions further.
    
-- 📫 How to reach me <a href="mailto:elwin1116@gmail.com">Email</a> | [Blog](https://elwinliu.com/)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elwinliu&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="elwinliu" /></p>
+- 📫 How to reach me <a href="mailto:elwin1116@gmail.com">Email</a>
 
 <h3 align="left">General Skills</h3>
 <p align="left">
@@ -24,7 +22,3 @@
 <p align="left">
     <img src="https://img.shields.io/badge/C-03599c"/> <img src="https://img.shields.io/badge/C++-d26383"/> <img src="https://img.shields.io/badge/C_Sharp-9b4f96"/> <img src="https://img.shields.io/badge/Java-ea2d2e"/> <img src="https://img.shields.io/badge/Python-4382b4"/>  <br> <img src="https://img.shields.io/badge/Hadoop-feeb50"/>  <img src="https://img.shields.io/badge/Mysql-ebaa40"/> <img src="https://img.shields.io/badge/Redis-d82c20"/> <img src="https://img.shields.io/badge/Spring-68bd45"/> <img src="https://img.shields.io/badge/RabbitMQ-ff6600"/> <img src="https://img.shields.io/badge/Postman-ff6c37"/> <br> <img src="https://img.shields.io/badge/OpenCV-ff0101"/> <img src="https://img.shields.io/badge/PyTorch-ee4c2c"/>  <img src="https://img.shields.io/badge/TensorFlow-eb8c23"/> 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elwinliu&show_icons=true&locale=en&theme=highcontrast" alt="elwinliu" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elwinliu" alt="elwinliu" /></a> </p>
